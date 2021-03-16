@@ -308,7 +308,7 @@ solved in time.
 - [DistAIX](https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix) - is a simulator for cyber-physical power systems that makes use of high performance computing techniques to scale up the simulation.
 - [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - is a domain ontology of the energy-system modelling context.
 - [nempy](https://github.com/UNSW-CEEM/nempy) - aims to enhance the Australia electricity industries modelling and analytical capabilities.
-- [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimiser is a chronological dispatch model for testing and optimising different portfolios of conventional and renewable electricity generation technologies.
+- [NEMO](https://nemo.ozlabs.org) - The National Electricity Market Optimiser is a chronological dispatch model for testing and optimising different portfolios of conventional and renewable electricity generation technologies.
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) - Generates input data for energy models on renewable energy in arbitrary world regions using public datasets.
 - [IDEAS](https://github.com/open-ideas/IDEAS) - Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) - is an Open Source power system simulator to quantify the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.

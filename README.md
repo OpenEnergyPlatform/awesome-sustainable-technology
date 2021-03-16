@@ -373,6 +373,7 @@ solved in time.
 - [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets.
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) - An R data package with the UK National Grid historical demand for electricity between April 2005 and October 2019.
 - [USgrid](https://github.com/RamiKrispin/USgrid) - The hourly demand and supply of electricity in the US.
+- [weather-maker](https://github.com/bje-/weather-maker) - Process Australian Bureau of Meteorology weather and solar radiation data into a TMY3 or EPW format file.
 
 ## Emissions and Greenhouse Gases
 

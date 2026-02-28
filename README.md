@@ -223,8 +223,9 @@ solved in time.
 - [Hotmaps](https://github.com/HotMaps/Hotmaps-toolbox-service) - The open source mapping and planning tool for heating and cooling. 
 - [BuildSysPro](https://github.com/EDF-TREE/BuildSysPro) - is EDF's Modelica library for buildings, districts and energy systems modelling.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - the python-based open-source platform for model predictive control in buildings.
-- [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences. 
+- [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences.
 - [The Application Domain Extension (ADE) Energy](https://git.rwth-aachen.de/energyade/citygml-energy) - defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modelling tools and expert databases.
+- [Energy Rebate Calculator](https://energyrebatecalculator.com/) - Free US energy rebates calculator for IRA, HOMES Act, and other federal/state energy efficiency incentive programs.
 
 
 ### Mobility and Transportation

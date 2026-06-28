@@ -371,6 +371,7 @@ solved in time.
 - [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) - A collection of modules for accessing power system data, generating statistics, and creating visualizations from the New York Independent System Operator.
 - [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland).
 - [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets.
+- [Peak Sun Hours by City (CovertItAll)](https://covertitall.com/solar/peak-sun-hours.html) - Free reference dataset of annual, winter-low and summer-high peak sun hours for 83 locations (European cities, all US states, selected world cities) with a downloadable CSV. Basis: PVGIS and NREL multi-year averages.
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) - An R data package with the UK National Grid historical demand for electricity between April 2005 and October 2019.
 - [USgrid](https://github.com/RamiKrispin/USgrid) - The hourly demand and supply of electricity in the US.
 

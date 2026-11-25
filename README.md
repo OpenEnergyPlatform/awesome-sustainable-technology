@@ -206,6 +206,7 @@ solved in time.
 - [OpenEnergyMonitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
 - [EnergyPlus](https://github.com/NREL/EnergyPlus) -  is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.
 - [OpenStudio](https://github.com/NREL/OpenStudio) -  is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
+- [CoolLoad Studio](https://github.com/Xheir/CoolLoad-Studio) - A free Windows heating- and cooling-load calculator implementing the ASHRAE CLTD/CLF method, with a printable zone-by-zone load sheet for design reports.
 - [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) - An open source Python server to deploy energy management solutions for buildings.
 - [SEED](https://github.com/SEED-platform/seed) - Standard Energy Efficiency Data Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.
 - [HPWHsim](https://github.com/EcotopeResearch/HPWHsim) - An open source simulation model for Heat Pump Water Heaters (HPWH).
